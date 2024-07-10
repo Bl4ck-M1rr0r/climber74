@@ -13,3 +13,7 @@ text-align: center;
 centre{
 text-align: center;
 }
+
+table, th, td {
+  border: 1px solid;
+}
