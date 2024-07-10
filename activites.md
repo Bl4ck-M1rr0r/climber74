@@ -1,17 +1,20 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+<button>Indoor climbing</button>
+<button>Outdoor climbing</button> 
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+<p>Les méthodes d'assurage</p>
 
-## Nos activités
-
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+<table>
+ <tr>
+  <th>Moulinette</th>
+  <th>En tête</th>
+ </tr> 
+<tr>
+<th>Convient très bien pour les débutants car souhaitant grimper sans charge mentale liée à la chute. Cependant la corde peut gêner lors de l'ascension</th>
+<th>Il s'agit de la méthode classique d'assurage pour les grimpeurs un peu plus expérimentés qui souhaitent pouvoir s'adapter à tous les environnements. Néanmoins le principe de clip doit être maitrisé et une charge mentale s'ajoute à l'activité liée au risque de chute</th>
+</tr>
+</table> 
