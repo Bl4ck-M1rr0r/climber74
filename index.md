@@ -31,5 +31,7 @@ in_menu: true
   <th>En tête</th>
  </tr> 
 <tr>
-<th>Convient très bien pour les débutants car souhaitant grimper sans charge mentale liée à la chute</th>
+<th>Convient très bien pour les débutants car souhaitant grimper sans charge mentale liée à la chute. Cependant la corde peut gêner lors de l'ascension</th>
+<th>Il s'agit de la méthode classique d'assurage pour les grimpeurs un peu plus expérimentés qui souhaitent pouvoir s'adapter à tous les environnements. Néanmoins le principe de clip doit être maitrisé et une charge mentale s'ajoute à l'activité liée au risque de chute</th>
+</tr>
 </table> 
