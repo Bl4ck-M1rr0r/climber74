@@ -22,3 +22,11 @@ in_menu: true
 
 <button>Indoor climbing</button>
 <button>Outdoor climbing</button> 
+
+<p>les méthodes d'assurage</p>
+
+<table>
+<tr>
+<th>Moulinette</th>
+<th>En tête</th>
+</tr> 
