@@ -1,3 +1,7 @@
 :root {
     --couleur-primaire : #07357d;
 }
+
+h1 {
+text-align: center;
+}
