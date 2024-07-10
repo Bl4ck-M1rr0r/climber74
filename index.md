@@ -23,10 +23,13 @@ in_menu: true
 <button>Indoor climbing</button>
 <button>Outdoor climbing</button> 
 
-<p>les méthodes d'assurage</p>
+<p>Les méthodes d'assurage</p>
 
 <table>
+ <tr>
+  <th>Moulinette</th>
+  <th>En tête</th>
+ </tr> 
 <tr>
-<th>Moulinette</th>
-<th>En tête</th>
-</tr> 
+<th>Convient très bien pour les débutants car souhaitant grimper sans charge mentale liée à la chute</th>
+</table> 
