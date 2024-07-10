@@ -7,4 +7,4 @@ in_menu: true
 
 <p>Guide découverte pour les néophytes, il existe quelques fondamentaux indispensables pour bien débuter.</p>
 
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
+<img src="climbing.jpg" width="104" height="142"> 
