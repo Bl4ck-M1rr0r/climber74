@@ -9,6 +9,8 @@ in_menu: true
 
 <p>Guide découverte pour les néophytes, il existe quelques fondamentaux indispensables pour bien débuter.</p>
 
+<a href="https://www.youtube.com/watch?v=CZlxY5rNGJk">La vie au bout des doigts</a>
+
 <h2>Quel équipement ?</h2>
 
 <li>Baudrier</li>
