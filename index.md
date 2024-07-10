@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+<h1>L'escalade</h1>
 
-# L'Échappée Belle
+<p>Guide découverte pour les néophytes, il existe quelques fondamentaux indispensables pour bien débuter.</p>
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
