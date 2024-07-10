@@ -4,10 +4,9 @@ order: 1
 in_menu: true
 ---
 ![Texte décrivant l'image]({% link images/Outdoor climbing.jfif %})
+<button>Outdoor climbing</button>
 ![Texte décrivant l'image]({% link images/Indoor climbing.jfif %})
-
 <button>Indoor climbing</button>
-<button>Outdoor climbing</button> 
 
 <p>Les méthodes d'assurage</p>
 
