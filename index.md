@@ -19,3 +19,6 @@ in_menu: true
 <li>Magnésie</li>
 <li>Dégaines</li>
 <li>Corde</li> 
+
+<button>Indoor climbing</button>
+<button>Outdoor climbing</button> 
