@@ -3,8 +3,8 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
-![Texte décrivant l'image]({% link images/Indoor climbing.jfif %})
 ![Texte décrivant l'image]({% link images/Outdoor climbing.jfif %})
+![Texte décrivant l'image]({% link images/Indoor climbing.jfif %})
 
 <button>Indoor climbing</button>
 <button>Outdoor climbing</button> 
